@@ -13,9 +13,9 @@ cv_pdf: /assets/pdf/example_pdf.pdf # path to your CV PDF file
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
 email: nyilmaz3@asu.edu 
-linkedin: "https://www.linkedin.com/in/nilay-yilmaz/"
-google_scholar: "https://scholar.google.com/citations?user=92awVdYAAAAJ&hl=en"
-github_url: "https://github.com/nlylmz"
+linkedin: https://www.linkedin.com/in/nilay-yilmaz/
+google_scholar: https://scholar.google.com/citations?user=92awVdYAAAAJ&hl=en
+github_url: https://github.com/nlylmz
 # facebook_id: # your facebook id
 # flickr_id: # your flickr id
 # github_username: # your GitHub user name
